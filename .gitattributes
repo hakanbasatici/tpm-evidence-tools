@@ -1,0 +1,4 @@
+# Keep reviewed text bytes identical across Windows and Linux checkouts.
+* text=auto eol=lf
+*.exe -text
+*.zip -text

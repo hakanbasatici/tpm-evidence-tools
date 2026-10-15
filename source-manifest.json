@@ -1,5 +1,5 @@
 {
-  ".github/workflows/windows-build-draft.yml": "d771763c41f295e948cb0e8a7c97fc533d4376e0a62f642e75ca3335f4ffb972",
+  ".github/workflows/windows-build-draft.yml": "65c01a3679c75d45bba6f902f0a9067fe77d082fba77585ffa903f7cd1a869ca",
   ".gitignore": "adb9900ae2f4829df8176b734e74178bad917493d04264d09a0623ca26e87ca8",
   "CMakeLists.txt": "2763aab568c2dcc52632f2b1d976a12459ff70db3439c8de75c595016cc60ebc",
   "CONTRIBUTING.md": "d7b6dd174305064dbd913a9e2ae59654c41ae8f155a23de2ab581ec1cb2b0a11",
@@ -19,6 +19,7 @@
   "src/ProfileCreation.h": "d53887c86a3ce5f19838e2ddba46df74a2552b565899853b20e4fd2557da70b3",
   "src/Version.rc": "cebb6715dfdd8b2c7fb500207abc4b3fe303f188625775c78a8d0550f45014b1",
   "tests/ProfileAndInput.test.cpp": "4f3892a5a8c96625ba3e4de9df5fe6a028320ce3fe37deabbea141d91cafe4d9",
-  "validation.json": "25eabb60fbdf6b465f28732261d109761fe094940ceb0c5062a389373ec3567c",
-  "docs/CI-BUILD.md": "b9cdc28b6981f87b937843c6013e85fc123d6084ed2474cd2aa702f5a6e55516"
+  "validation.json": "552cfe95317807542837e6326c19a988242e1e4004e4cee2f052853ebdb3e75b",
+  "docs/CI-BUILD.md": "94e3ab64ecc6ca4bf09e1b816b5b57496764f511349df0aa59a4a131554ffff1",
+  ".gitattributes": "579ff82766ffa46954fa1e87b5c5c380ce69c005f3f961d8f1e6bb28d0dcad3b"
 }

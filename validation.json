@@ -30,10 +30,15 @@
   },
   "githubActions": {
     "workflow": ".github/workflows/windows-build-draft.yml",
-    "status": "INSTALLED_PENDING_FIRST_RUN",
+    "status": "FIRST_RUN_FAILED_BEFORE_CONFIGURE",
     "ownerApprovedRuns": 1,
-    "runId": null,
-    "result": null,
-    "helperExecutionAllowed": false
+    "runId": 38744418635,
+    "result": "FAIL_REVIEWED_INPUT_MISMATCH_CMAKELISTS",
+    "helperExecutionAllowed": false,
+    "runAttempt": 1,
+    "retryApprovalRequired": true,
+    "configurationStarted": false,
+    "compileStarted": false,
+    "portableTestStarted": false
   }
 }
