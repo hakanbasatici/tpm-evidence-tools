@@ -9,9 +9,9 @@
   "SECURITY.md": "87c7eff4202e85874d60449724e024d47affd26c99084189f174bff91420c74f",
   "docs/COMPONENTS.json": "5c4d2419bc22139c9ee4e15868f23767872a7ad7814b2292c6a4c8938a5a2084",
   "docs/PROVENANCE.md": "bc93617faebb8d29a8159a7c63783b289b345b72d03f9d93807bca231fe6c6d5",
-  "docs/RELEASE-GATES.md": "db6c73ef042142d279e43f6de9e8bcab100c740a9050baaa940ebde4fce8e8b0",
+  "docs/RELEASE-GATES.md": "559d24e1c56a71ef50ce2571e05a2aecf13aeecaae7e8b85c4271bd5eab19bb6",
   "docs/RELEASE-NOTES-PRIVATE.md": "ad29307ac791dd353c91621d3c11f4e712c997c11df833e6989669066255a1aa",
-  "docs/SIGNING-POLICY-DRAFT.md": "da2e8f1419bbfcf5ee42dd678be6aafd777b2b0f61af519575744bcfbdcf32f4",
+  "docs/SIGNING-POLICY-DRAFT.md": "90164834f68d65c71a160c985cee18d6f218ece961644e8b2c0e623f5c648727",
   "docs/WINDOWS-BUILD-REVIEW.json": "0d2782b62cbf30ed7ca3c7be2a3023b2be745b7b3ef7366d8a9df141ee5d2293",
   "src/EphemeralClaim.cpp": "c1ea08af1ac52110d50015c917a594be5bcb7e7d6f68c3fc68aabdd20eb85214",
   "src/InputContract.h": "d95bd73db52eff4fc50e9b11ce9f97c507a4336b87defb13ecb0fa75a13277a0",
@@ -19,5 +19,5 @@
   "src/ProfileCreation.h": "d53887c86a3ce5f19838e2ddba46df74a2552b565899853b20e4fd2557da70b3",
   "src/Version.rc": "cebb6715dfdd8b2c7fb500207abc4b3fe303f188625775c78a8d0550f45014b1",
   "tests/ProfileAndInput.test.cpp": "4f3892a5a8c96625ba3e4de9df5fe6a028320ce3fe37deabbea141d91cafe4d9",
-  "validation.json": "bbd317a666524a1afa6cb761183afef2605681a55b4f8521a1c9c781367cdafe"
+  "validation.json": "6642ee7daccb09b68202d125f4c197d9ef3d9c6a14a36cf209db8a0366969df8"
 }

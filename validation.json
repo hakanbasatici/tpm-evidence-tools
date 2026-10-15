@@ -23,7 +23,9 @@
     "confirmationDate": "2026-10-15",
     "notificationDelivery": "NOT_TESTED",
     "humanReviewer": "UNASSIGNED",
-    "signingApprover": "PROPOSED_PENDING_CONFIRMATION",
-    "signpathMfa": "NOT_VERIFIED"
+    "signingApprover": "HAKAN_BASATICI_OWNER_CONFIRMED",
+    "signpathMfa": "NOT_VERIFIED",
+    "projectTeam": "SINGLE_MAINTAINER",
+    "aiAssistance": "TECHNICAL_SUPPORT_NOT_HUMAN_REVIEWER_OR_APPROVER"
   }
 }
