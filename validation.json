@@ -27,5 +27,13 @@
     "signpathMfa": "NOT_VERIFIED",
     "projectTeam": "SINGLE_MAINTAINER",
     "aiAssistance": "TECHNICAL_SUPPORT_NOT_HUMAN_REVIEWER_OR_APPROVER"
+  },
+  "githubActions": {
+    "workflow": ".github/workflows/windows-build-draft.yml",
+    "status": "INSTALLED_PENDING_FIRST_RUN",
+    "ownerApprovedRuns": 1,
+    "runId": null,
+    "result": null,
+    "helperExecutionAllowed": false
   }
 }
