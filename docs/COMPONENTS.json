@@ -1,0 +1,45 @@
+{
+  "inventoryType": "LIMITED_COMPONENT_INVENTORY_NOT_COMPLETE_SBOM",
+  "project": "TPM Evidence Tools",
+  "version": "0.1.0-draft",
+  "projectLicense": "MIT",
+  "vendoredThirdPartyPackages": [],
+  "components": [
+    {
+      "name": "session-authored project sources",
+      "role": "first-party",
+      "licenseOwnershipReview": "PENDING"
+    },
+    {
+      "name": "Microsoft Visual C++ runtime",
+      "role": "statically linked in reviewed /MT outputs",
+      "exactVersion": "NOT_VERIFIED",
+      "redistributionTermsReview": "PENDING"
+    },
+    {
+      "name": "Windows SDK",
+      "role": "build headers and resource compiler",
+      "exactVersion": "NOT_VERIFIED"
+    },
+    {
+      "name": "Windows system DLLs",
+      "role": "runtime system dependencies",
+      "names": [
+        "KERNEL32.dll",
+        "ncrypt.dll",
+        "tbs.dll"
+      ]
+    },
+    {
+      "name": "CMake",
+      "role": "optional build tooling",
+      "minimumVersion": "3.20",
+      "executionVerified": false
+    }
+  ],
+  "binaryHashes": {
+    "PcrBanks.exe": "794fe10deaffe9d8a00cf8232d66c22cf4129a610d70311d72a17ac23eebf79c",
+    "EphemeralClaim.exe": "9cf5d087087adac8d19a11ac5ed5668b1efc3d10672f9886374c23185ef8c713",
+    "ProfileAndInputTests.exe": "20cd1cc54691f329ecf409129527fc69e3e491214202d318690663c1a32877fa"
+  }
+}

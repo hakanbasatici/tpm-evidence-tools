@@ -1,0 +1,20 @@
+{
+  "portableCasesPassed": 38,
+  "compiler": "g++ C++17 -Wall -Wextra -Werror",
+  "nativeWindowsBuild": "PASS_DIRECT_MSVC_AND_RESOURCE_COMPILER",
+  "cmakeExecution": "NOT_RUN_TOOL_UNAVAILABLE",
+  "hardwareTpmExecution": "NOT_RUN",
+  "licenseActivated": true,
+  "repositoryPublished": true,
+  "providerApplicationSubmitted": false,
+  "paymentMade": false,
+  "scopeAndStaticControlChecks": "PASS",
+  "windowsPortableCasesPassed": 38,
+  "staticPeReview": "PASS",
+  "windowsHelperExecution": "NOT_RUN",
+  "independentReproducibleBuild": "NOT_VERIFIED",
+  "smartAppControlCompatibility": "NOT_VERIFIED",
+  "buildReviewArchiveSha256": "71ff3762df95e11a17e2c5ce10c4428aa8d83860d7f1f6ec83bae8cdc927e3c1",
+  "repositoryPublicationAuthorized": true,
+  "repositoryUrl": "https://github.com/hakanbasatici/tpm-evidence-tools"
+}

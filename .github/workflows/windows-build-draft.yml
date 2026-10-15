@@ -1,0 +1,15 @@
+# Unpublished workflow draft. No push/PR trigger, deployment, signing or TPM runs.
+name: Manual compile and portable tests (draft)
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  compile:
+    runs-on: windows-2022
+    steps:
+      # Immutable action revisions must be resolved/reviewed before activating this workflow.
+      - name: Release gate
+        shell: pwsh
+        run: |
+          throw 'PRIVATE_DRAFT: workflow disabled until reviewed checkout/action pins and human CI authorization'
