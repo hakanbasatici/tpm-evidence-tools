@@ -16,5 +16,14 @@
   "smartAppControlCompatibility": "NOT_VERIFIED",
   "buildReviewArchiveSha256": "71ff3762df95e11a17e2c5ce10c4428aa8d83860d7f1f6ec83bae8cdc927e3c1",
   "repositoryPublicationAuthorized": true,
-  "repositoryUrl": "https://github.com/hakanbasatici/tpm-evidence-tools"
+  "repositoryUrl": "https://github.com/hakanbasatici/tpm-evidence-tools",
+  "securityPreparation": {
+    "privateReporting": "ENABLED_OWNER_SCREEN_CONFIRMED",
+    "github2fa": "AUTHENTICATOR_ENABLED_OWNER_SCREEN_CONFIRMED",
+    "confirmationDate": "2026-10-15",
+    "notificationDelivery": "NOT_TESTED",
+    "humanReviewer": "UNASSIGNED",
+    "signingApprover": "PROPOSED_PENDING_CONFIRMATION",
+    "signpathMfa": "NOT_VERIFIED"
+  }
 }

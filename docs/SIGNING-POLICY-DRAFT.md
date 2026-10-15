@@ -2,7 +2,9 @@
 
 Candidate signing path: SignPath Foundation for an independent open-source utility. No application has been submitted and no acceptance/certificate has been granted. No free-signing attribution is claimed at this stage.
 
-Proposed owner/maintainer and release approver: Hakan Basatici, subject to confirmation. Contributor/reviewer roles need assignment; independent review is still required. All future repository and signing accounts must use MFA. No account or external permission was created during preparation.
+Repository owner and maintainer: Hakan Basatici (@hakanbasatici). The proposed signing approver is Hakan Basatici, pending explicit role confirmation. A human code reviewer has not been assigned; independent review remains outstanding. AI assistance is not an accountable human reviewer or signing approver. GitHub authenticator-based 2FA was enabled on 2026-10-15, confirmed by the owner's success screen. This is not an API audit of account security. No SignPath account or SignPath MFA configuration has been verified. Every participating repository/signing account must use MFA.
+
+Private security reporting is enabled; see [SECURITY.md](../SECURITY.md). No test advisory has been sent. The project has a public MIT source preview but no published binary release. This does not yet establish the provider's already-released-artifact condition.
 
 A proposed signing request must bind the exact reviewed source commit, build configuration, product name/version, independently inspected binary hash, license and allowed artifacts. Only artifacts built from reviewed project sources may be signed. No arbitrary uploaded EXE or DOK proprietary binary can be signed under this project.
 

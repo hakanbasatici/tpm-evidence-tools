@@ -44,4 +44,8 @@ The binaries will be unsigned until a supported signing path is approved. Smart 
 
 ## Review documents
 
-Read LICENSE, REVIEW-TR.md, docs/SIGNING-POLICY-DRAFT.md, docs/RELEASE-GATES.md and docs/PROVENANCE.md. MIT applies only to the sources in this standalone project. No SignPath sponsorship is claimed. Source repository: https://github.com/hakanbasatici/tpm-evidence-tools. Maintainer: @hakanbasatici. A private security reporting channel is not yet configured; see SECURITY.md.
+Read LICENSE, REVIEW-TR.md, docs/SIGNING-POLICY-DRAFT.md, docs/RELEASE-GATES.md and docs/PROVENANCE.md. MIT applies only to the sources in this standalone project. No SignPath sponsorship is claimed. Source repository: https://github.com/hakanbasatici/tpm-evidence-tools. Maintainer: @hakanbasatici. Use [private vulnerability reporting](https://github.com/hakanbasatici/tpm-evidence-tools/security/advisories/new); see SECURITY.md.
+
+## Code signing policy
+
+See [Code signing policy](docs/SIGNING-POLICY-DRAFT.md). This is a preparation policy, not a claim of provider acceptance or signed distribution.
