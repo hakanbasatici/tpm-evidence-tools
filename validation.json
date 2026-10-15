@@ -2,7 +2,7 @@
   "portableCasesPassed": 38,
   "compiler": "g++ C++17 -Wall -Wextra -Werror",
   "nativeWindowsBuild": "PASS_DIRECT_MSVC_AND_RESOURCE_COMPILER",
-  "cmakeExecution": "NOT_RUN_TOOL_UNAVAILABLE",
+  "cmakeExecution": "PASS_GITHUB_ACTIONS_WINDOWS",
   "hardwareTpmExecution": "NOT_RUN",
   "licenseActivated": true,
   "repositoryPublished": true,
@@ -30,15 +30,19 @@
   },
   "githubActions": {
     "workflow": ".github/workflows/windows-build-draft.yml",
-    "status": "FIRST_RUN_FAILED_BEFORE_CONFIGURE",
-    "ownerApprovedRuns": 1,
-    "runId": 38744418635,
-    "result": "FAIL_REVIEWED_INPUT_MISMATCH_CMAKELISTS",
-    "helperExecutionAllowed": false,
+    "status": "PASS_REVIEWED_ARTIFACT",
+    "ownerApprovedRuns": 2,
+    "runId": 38745252012,
     "runAttempt": 1,
-    "retryApprovalRequired": true,
-    "configurationStarted": false,
-    "compileStarted": false,
-    "portableTestStarted": false
+    "result": "PASS",
+    "sourceCommit": "bd4c2c7d855a0ec17d1c6ac1d264e2f60aa94bfb",
+    "helperExecutionAllowed": false,
+    "diagnosticHelperStarts": 0,
+    "portableCasesPassed": 38,
+    "artifactId": 11977917582,
+    "artifactSha256": "c96a45f6fadabfd7e923caa723ee1b588e12eae6485aeb098fff233c5a354d30",
+    "artifactFilesAndHashesVerified": true,
+    "earlierFailedRunId": 38744418635,
+    "additionalRunAuthorized": false
   }
 }

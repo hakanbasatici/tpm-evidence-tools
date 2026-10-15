@@ -9,7 +9,7 @@ The caller owns challenge generation, canonical statement/domain binding and fre
 
 ## Build validation and CMake build plan
 
-The isolated direct MSVC/Windows SDK build and resource compile passed. The portable test passed all 38 cases on Windows. Offline PE inspection passed; the helpers were not started and remain unsigned. CMake execution itself has not been verified. See validation.json and docs/WINDOWS-BUILD-REVIEW.json.
+The isolated direct MSVC/Windows SDK build and resource compile passed. The portable test passed all 38 cases on Windows. Offline PE inspection passed; the helpers were not started and remain unsigned. The CMake Windows build and 38 portable cases also passed in [GitHub Actions run 38745252012](https://github.com/hakanbasatici/tpm-evidence-tools/actions/runs/38745252012); the uploaded review artifact's digest, source identity and binary hashes were checked. This does not establish bit-reproducible output or real TPM behavior. See validation.json and docs/WINDOWS-BUILD-REVIEW.json.
 
 Windows x64, MSVC C++17 and a Windows SDK that includes the PCP scheme properties are required. Build through CMake (3.20+) in an isolated directory:
 
